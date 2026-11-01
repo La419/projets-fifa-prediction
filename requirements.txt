@@ -1,0 +1,6 @@
+python-telegram-bot==22.0
+python-dotenv
+pillow
+google-generativeai
+google-cloud-firestore
+google-cloud-logging
